@@ -41,7 +41,6 @@ export default {
   padding: 1em;
   margin: 1em auto;
   overflow: auto;
-  background-color: white;
   box-shadow: 0px 0.25rem 1rem;
 }
 </style>
